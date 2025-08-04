@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @Shayad-F-4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning PYTHON..
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Shayad-F-4
 
-<!---
-Shayad-F-4/Shayad-F-4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile Jasus kya Dekhega!
+
+About Me
+- 🚀 Passionate about coding and technology
+- 🐍 Currently learning: Python
+- 💡 Always curious and eager to improve
+- 🌍 Exploring new tools and frameworks
+
+Contact
+- 📫 Reach me on GitHub or by opening an issue in this repository
+-     mail: shayadfakir2006@gmail.com
+
+Fun
+- ⚡ I enjoy solving puzzles and learning new things every day
+
+
+> This repository contains config files for my GitHub profile.  
+> The README.md here appears on my public profile!
