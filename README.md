@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me  
 - 🚀 Driven, focused, and passionate** about technology  
-- 🔥 Learning **MERN Stack, AI/ML, Python, C**  
+- 🔥 Learning **MERN Stack, AI/ML, Python, C ,DSA,C++**  
 - 🎯 Dedicated to becoming a **top-level developer & problem solver**  
 - ⚙️ Love building real projects and engineering solutions  
 - 🧠 Strong logic, fast learner, disciplined mindset  
