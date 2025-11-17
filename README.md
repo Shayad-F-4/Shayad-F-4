@@ -1,55 +1,47 @@
-<!-- HEADER -->
+<!-- TITLE -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00EFFF&center=true&vCenter=true&width=600&lines=Hey+There+👋+I'm+Shayad+Fakir!;Software+Developer+%7C+AI+%7C+MERN+Stack;Problem+Solver+%7C+Fast+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E7F7&center=true&vCenter=true&width=650&lines=Hi+I'm+Shayad+Fakir+👋;Software+Developer+%7C+MERN+Stack;AI+%7C+Machine+Learning+Enthusiast" />
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/JC7Z9Hf.gif" width="200"/>
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="180">
 </p>
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-In%20Progress-blue?style=for-the-badge&logo=ai"/>
-  <img src="https://img.shields.io/badge/MERN%20Stack-Learner-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI/ML-Enthusiast-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fast-Learner-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## ⚡ About Me
-✨ Passionate developer focused on **AI, MERN Stack & Automation**  
-🚀 Turning ideas into real-world working projects  
-🧠 Learning fast. Building faster.  
-💡 Obsessed with clean code + problem solving  
+## ⚡ About Me  
+- 🚀 Passionate about coding, AI, and modern web development  
+- 🧠 Learning **MERN Stack, Python, C, ML Concepts**  
+- 🎯 Focused on **building real projects** & improving problem-solving  
+- 💡 I enjoy automation, AI agents, and clean code  
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,react,nodejs,express,mongodb,git,github,html,css,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,react,nodejs,express,mongodb,git,github,html,css,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🌌 Animated Section (Wow Effect)
+## 🌟 Animated Vibes  
 <p align="center">
-  <img src="https://i.imgur.com/8iyZKQY.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
 </p>
 
 ---
 
-## 🧩 Current Focus
-- MERN Stack Development  
-- Machine Learning & Data Science  
-- AI Agents & LLM Workflows  
-- Competitive Problem Solving  
-
----
-
-## 📊 GitHub Performance
+## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shayad-F-4&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shayad-F-4&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shayad-F-4&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shayad-F-4&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -58,21 +50,19 @@
 
 ---
 
-## 💼 Contact
+## 📬 Contact  
 📧 **Email:** `shayadfakir2006@gmail.com`  
 🔗 **GitHub:** github.com/Shayad-F-4  
 
 ---
 
 ## ⚡ Fun Fact  
-I enjoy building cool things, solving puzzles & learning something new every day.
-
----
+I improve myself every day — learning, building, solving!
 
 <p align="center">
-  <img src="https://i.imgur.com/Pj1vCev.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3oEduQAsYcJKQH2XsI/giphy.gif" width="200">
 </p>
 
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories!
+  ⭐ If you like my work, consider giving a ⭐ on my repositories!
 </p>
