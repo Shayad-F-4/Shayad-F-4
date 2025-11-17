@@ -37,6 +37,13 @@
 
 ---
 
+## 📚 Top Languages Used  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayad-F-4&layout=compact&theme=algolia" />
+</p>
+
+---
+
 ## 🔗 Contact  
 📧 **Email:** `shayadfakir2006@gmail.com`  
 🔗 **GitHub:** github.com/Shayad-F-4  
