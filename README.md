@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 About Me  
+## 🧑‍💻 About Me 
 - 🚀 Driven, focused, and passionate** about technology  
 - 🔥 Learning **MERN Stack, AI/ML, Python, C ,DSA,C++**  
 - 🎯 Dedicated to becoming a **top-level developer & problem solver**  
